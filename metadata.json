@@ -1,0 +1,8 @@
+{
+  "description": "Toggle lid-close sleep behavior from the GNOME top bar",
+  "name": "Lid Sleep Toggle",
+  "shell-version": ["50", "51"],
+  "uuid": "lid-sleep@local",
+  "version": 1,
+  "version-name": "1.0.0"
+}
